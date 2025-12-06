@@ -209,7 +209,7 @@ This tech stack isn't a barrier; it's your accelerator. With your philosophical 
 
 <img src="https://github.com/neuresthetics/isomorphic_data_singularity/raw/main/img/heavy4.png" alt="HEAVY GROK ACTIVATE" width="100%">
 
-# ETHICAL EVALUATION of this with COLLIDERΩ SUITE Neuresthetics LLC 2017)
+# ETHICAL EVALUATION of this with COLLIDERΩ SUITE Neuresthetics LLC 2017) [not included]
 
 > The sphere is powerful. Should I open source that one part and keep the rest for myself. Ethical? Steel man it.
 
