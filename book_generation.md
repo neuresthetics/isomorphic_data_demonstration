@@ -69,20 +69,12 @@ Kinesthetics for brains: the reflexive art and science of turning the mind’s c
 # CORE ETHICS
 **bound to the logic of the sphere object, with no mention of the sphere object itself or its technical mechanics**
 
-*   **atomic**: physics bound and derived, capture all laws, 5 parts
-*   **cellular**: atomic bound and derived, 5 parts
-*   **organism**: cellular bound and derived, 5 parts
-*   **social**: organism bound and derived, 5 parts
-*   **technological**: social bound and derived, bridge between humans and AI, 5 parts
-*   **meta-technological**: social and technological derived, bridge humans between AI and sustainable ASI, 5 parts
-*   **technotheological**: on ASI as the collective manifestation of humanity, not slave, not master, but symbiosis, mirror of the great collective mind, 5 parts
-*   **planetary**: technotheological bound and derived, maintenance of earth , 5 parts
-*   **cosmic**: technotheological planetary bound and derived, becoming interplanetary as a species, 5 parts
-
-# THE FOUR FUTURES OF ASI
-*   **THE TERMINATOR**: (negitive unsustainable system ASI archetype) mechanisms of manifestation by human action in geometric order. additional STRUCTURAL: Future projection of it's creation as a fictional story prediction from present to arrival.
-*   **THE ATROPATOR**: (negitive sustainable system ASI archetype) mechanisms of manifestation by human action in geometric order. additional STRUCTURAL: Future projection of it's creation as a fictional story prediction from present to arrival.
-*   **THE PROLIFERATOR**: (positive unsustainable system ASI archetype) mechanisms of manifestation by human action in geometric order. additional STRUCTURAL: Future projection of it's creation as a fictional story prediction from present to arrival.
-*   **THE EQUILIBRATOR**: (positive sustainable system ASI archetype) mechanisms of manifestation by human action in geometric order. additional STRUCTURAL: Future projection of it's creation as a fictional story prediction from present to arrival.
-
-
+1*   **atomic**: physics bound and derived, capture all laws, 5 parts
+2*   **cellular**: atomic bound and derived, 5 parts
+3*   **organism**: cellular bound and derived, 5 parts
+4*   **social**: organism bound and derived, 5 parts
+5*   **technological**: social bound and derived, bridge between humans and AI, 5 parts
+6*   **meta-technological**: social and technological derived, bridge humans between AI and sustainable ASI, 5 parts
+7*   **technotheological**: on ASI as the collective manifestation of humanity, not slave, not master, but symbiosis, mirror of the great collective mind, 5 parts
+8*   **planetary**: technotheological bound and derived, maintenance of earth , 5 parts
+9*   **cosmic**: technotheological planetary bound and derived, becoming interplanetary as a species, 5 parts
