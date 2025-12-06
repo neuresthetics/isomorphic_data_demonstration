@@ -237,8 +237,13 @@ For grants (e.g., NSF AI calls), demo technical prototypes—e.g., a Sphere sim 
 
 This tech stack isn't a barrier; it's your accelerator. With your philosophical base, you're already "underrated" in a field craving it. Which skill grabs you first?
 
+---
+---
+---
 
-# ETHICAL EVALUATION OF THIS WITH THE SPHERE AND THE COLLIDERΩ
+<img src="https://example.com/image1.jpg" alt="Image 1" width="100%">
+
+# ETHICAL EVALUATION of this with COLLIDERΩ (Neuresthetics LLC 2017)
 
 > The sphere is powerful. Should I open source that one part and keep the rest for myself. Ethical? Steel man it.
 
