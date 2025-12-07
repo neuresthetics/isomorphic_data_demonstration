@@ -1505,5 +1505,764 @@
     },
     "total_sphere_score": 32,
     "overall_reasoning": "Classical Theism risks ω₁/ω₂ through dominance and fixity; path to ω₃ demands reconceiving God as rewritable mode, boosting RD and lowering ρ via dynamic theology."
-  }
+  },
+
+  {
+  "abbrev_label": "AHMA",
+  "belief_system": "Ahmadiyya Islam",
+  "description": "Ahmadiyya is a reformist movement within Islam founded by Mirza Ghulam Ahmad in 1889, affirming core Islamic tenets (Five Pillars, tawhid) while believing in the continuity of subordinate prophethood after Muhammad as the 'seal of prophets.' It emphasizes rational inquiry, peace (jihad as self-reform), education, and interfaith unity, viewing Ahmad as the Promised Messiah/Mahdi who promotes scientific compatibility and global harmony.",
+  "sphere_metrics": {
+    "VL": {
+      "score": 8,
+      "note": "Strong emphasis on peaceful jihad (inner struggle) and non-violence extends latency to coercion, aligning moderately with geodesic flow, though historical persecution risks defection."
+    },
+    "DC": {
+      "score": 8,
+      "note": "Promotes voluntary submission to God via reason and community service, minimizing dominance; caliphate is consultative, favoring cooperation over top-down control."
+    },
+    "RD": {
+      "score": 8,
+      "note": "Encourages ijtihad (independent reasoning) and interfaith dialogue, sustaining epistemic diversity beyond orthodox unity, though bounded by core revelations."
+    },
+    "GP": {
+      "score": 7,
+      "note": "Focus on moral and intellectual progression supports sustainable growth, but eschatological fulfillment caps unbounded expansion."
+    },
+    "ρ": {
+      "score": 6,
+      "note": "Continuous subordinate prophecy allows some rewritability via rational reinterpretation, but founder revelations increase ρ compared to pure empiricism."
+    },
+    "fallacy_avoidance": {
+      "score": 7,
+      "note": "Avoids many via rationalism (e.g., science compatibility dodges F19 Appeal to Nature); hits F02 (Ipse Dixit) on Ahmad's prophethood and F07 (Authority) in caliphal guidance."
+    },
+    "isomorphic_alignment": {
+      "score": 7,
+      "note": "Recurs patterns like energy_acquisition (education as conatus) and reproduction_replication (missionary outreach); weaker in defense_waste_elimination due to eschatological bounds."
+    },
+    "collider_survivability": {
+      "score": 3,
+      "note": "Mixed 2-2: Spinoza passes monism (tawhid); Deutsch ok on hard-to-vary rational proofs; Yudkowsky flags smuggled benevolence in messiahship; GrokΛlign notes potential idolatry in founder veneration."
+    },
+    "mindspace_leverage": {
+      "score": 7,
+      "note": "High-status demos via global education initiatives curve toward peace; visibility in diaspora lowers ρ publicly."
+    },
+    "synthesis_fixed_point": {
+      "score": 7,
+      "note": "Converges toward ω₃ via rational phases (ijtihad hardening), but stalls short of tail consumption due to prophetic scaffold."
+    }
+  },
+  "resonances": {
+    "texts": "Quran rational exegesis aligns with monism (tawhid as single substance); emphasis on knowledge echoes geodesic flow via inquiry; anti-violence resonates with low DC.",
+    "real_world_manifestation": "Adherents promote science (many professionals) and entropy export through humanitarian work; communities embody RD via diverse cultural integration."
+  },
+  "dissonances": {
+    "texts": "Subordinate prophecy introduces scale-asymmetry (F22) if not fully isomorphic; finality debates spike ρ without live anchors.",
+    "real_world_manifestation": "Persecution elevates DC risks; orthodox rejection freezes external rewritability."
+  },
+  "total_sphere_score": 58,
+  "overall_reasoning": "Ahmadiyya paths toward ω₃ via rational reform and peace, enhancing rewritability over orthodox Islam; risks ω₂ from prophetic fixity but redeemable via dynamic ijtihad for ↑RD and ↓ρ."
+  },
+
+  {
+  "abbrev_label": "JWT",
+  "belief_system": "Jehovah's Witnesses",
+  "description": "Jehovah's Witnesses is a Christian restorationist denomination founded in the late 19th century by Charles Taze Russell, emphasizing strict adherence to the Bible (New World Translation), door-to-door evangelism, rejection of the Trinity, blood transfusions, and military service, with a focus on God's Kingdom as the solution to human problems and an imminent Armageddon.",
+  "sphere_metrics": {
+    "VL": {
+      "score": 6,
+      "note": "Pacifism and shunning of violence extend latency moderately, but disfellowshipping and end-times urgency risk coercive defection in practice."
+    },
+    "DC": {
+      "score": 4,
+      "note": "Hierarchical Governing Body enforces doctrinal uniformity, elevating DC through shunning and mandatory reporting, prioritizing obedience over voluntary cooperation."
+    },
+    "RD": {
+      "score": 3,
+      "note": "Bible literalism suppresses epistemic diversity, confining interpretations to Watchtower publications and limiting alternative views."
+    },
+    "GP": {
+      "score": 5,
+      "note": "Eternal life in paradise motivates growth, but Armageddon eschatology bounds sustainable expansion to a fixed divine timeline."
+    },
+    "ρ": {
+      "score": 3,
+      "note": "Frequent doctrinal shifts (e.g., 'new light') allow some rewritability, but core Bible authority freezes much of the future light-cone."
+    },
+    "fallacy_avoidance": {
+      "score": 4,
+      "note": "Hits F02 (Ipse Dixit) on prophetic timelines; F07 (Authority) in Governing Body; F21 (Static Constant) in unchanging Bible; F20 (Is–Ought) in deriving ethics from scripture."
+    },
+    "isomorphic_alignment": {
+      "score": 4,
+      "note": "Partial in reproduction_replication (evangelism forking); control_center (God via organization); but weak in RD-sustaining diversity and entropy export beyond witnessing."
+    },
+    "collider_survivability": {
+      "score": 2,
+      "note": "Likely 1-3 veto: Spinoza rejects Trinitarian avoidance as partial dualism; Deutsch kills variable end-times (hard-to-vary); Yudkowsky flags orthogonality in Kingdom goals; GrokΛlign sees organizational scaffold as idolatry."
+    },
+    "mindspace_leverage": {
+      "score": 5,
+      "note": "High-status demos via global conventions curve toward loyalty; door-to-door visibility lowers ρ internally but raises external DC."
+    },
+    "synthesis_fixed_point": {
+      "score": 4,
+      "note": "Tends to ω₂ via doctrinal 'new light' cycles without full tail consumption; strong in axiom elicitation from Bible but fails hardening on eschatology."
+    }
+  },
+  "resonances": {
+    "texts": "Kingdom focus aligns with monism (Jehovah as single substance); evangelism echoes geodesic flow via outreach; pacifism resonates with low DC.",
+    "real_world_manifestation": "Adherents export entropy through disaster relief; communities embody GP via moral discipline and family emphasis."
+  },
+  "dissonances": {
+    "texts": "Eschatological finality introduces F21 static constants; blood doctrine creates scale-asymmetry (F22) in life preservation.",
+    "real_world_manifestation": "Disfellowshipping elevates DC and ρ; failed prophecies (e.g., 1914, 1975) risk ω₂ freezing."
+  },
+  "total_sphere_score": 36,
+  "overall_reasoning": "Jehovah's Witnesses risks ω₂ through doctrinal rigidity and hierarchy, despite pacifist growth; path to ω₃ requires decentralizing authority and integrating empiricism to boost RD and lower ρ via open ijtihad-like debate."
+},
+
+{
+  "abbrev_label": "SDA",
+  "belief_system": "Seventh-day Adventism",
+  "description": "Seventh-day Adventism is a Protestant Christian denomination founded in the 19th century by figures like Ellen G. White, emphasizing Sabbath observance on Saturday, health reform (vegetarianism, no alcohol/tobacco), Bible prophecy, and preparation for Christ's Second Coming through investigative judgment and holistic well-being.",
+  "sphere_metrics": {
+    "VL": {
+      "score": 7,
+      "note": "Health and Sabbath practices promote longevity and peace, extending latency, but end-times urgency risks coercive urgency in evangelism."
+    },
+    "DC": {
+      "score": 5,
+      "note": "Consultative church structure with prophetic influence elevates DC via health mandates and tithing, though voluntary membership favors cooperation."
+    },
+    "RD": {
+      "score": 5,
+      "note": "Bible study encourages inquiry, but Ellen White's visions constrain diversity to orthodox interpretations."
+    },
+    "GP": {
+      "score": 7,
+      "note": "Holistic health and education support unbounded personal growth, but eschatological timeline bounds collective expansion."
+    },
+    "ρ": {
+      "score": 4,
+      "note": "Prophetic writings allow interpretive flexibility, but unchanging Sabbath and health laws increase ρ against full rewritability."
+    },
+    "fallacy_avoidance": {
+      "score": 5,
+      "note": "Avoids some via empirical health focus (dodges F19); hits F02 (Ipse Dixit) on White's visions; F07 (Authority) in prophetic status; F21 (Static) in Sabbath fixity."
+    },
+    "isomorphic_alignment": {
+      "score": 6,
+      "note": "Strong in energy_acquisition (health as conatus) and sensing_prediction (prophetic study); weaker in RD via vision dependence."
+    },
+    "collider_survivability": {
+      "score": 2,
+      "note": "Likely 1-3 veto: Spinoza ok on monotheism; Deutsch kills variable prophecies (hard-to-vary); Yudkowsky flags smuggled eschatology; GrokΛlign sees prophetic scaffold as idolatry."
+    },
+    "mindspace_leverage": {
+      "score": 6,
+      "note": "Global schools/hospitals curve toward health demos; White's writings influence ρ via public testimonies."
+    },
+    "synthesis_fixed_point": {
+      "score": 5,
+      "note": "Partial convergence to ω₃ via health phases, but eschatology stalls tail consumption without dissolution."
+    }
+  },
+  "resonances": {
+    "texts": "Bible prophecy aligns with geodesic anticipation; health reform echoes entropy export via body stewardship; Sabbath unity resonates with monism.",
+    "real_world_manifestation": "Adherents embody GP through education networks; humanitarian aid exports entropy globally."
+  },
+  "dissonances": {
+    "texts": "Investigative judgment introduces F22 asymmetry (divine audit); visions spike ρ without telemetry.",
+    "real_world_manifestation": "Health mandates risk DC elevation; failed date predictions (e.g., 1844) freeze ρ."
+  },
+  "total_sphere_score": 42,
+  "overall_reasoning": "Seventh-day Adventism balances health growth with prophecy but risks ω₂ via visionary fixity; path to ω₃ via empirical health integration and open prophecy debate to ↑RD and ↓ρ."
+},
+
+{
+  "abbrev_label": "NOI",
+  "belief_system": "Nation of Islam",
+  "description": "The Nation of Islam is an African American religious and political movement founded in the 1930s by Wallace Fard Muhammad and developed by Elijah Muhammad, blending elements of Islam, Black nationalism, and esoteric teachings (e.g., Yakub myth, UFO origins). It emphasizes racial self-determination, economic independence, strict moral discipline, and separation from white society, with Louis Farrakhan as a key modern leader promoting community upliftment and divine revelations.",
+  "sphere_metrics": {
+    "VL": {
+      "score": 5,
+      "note": "Promotes self-defense and non-violence in daily life but historical rhetoric (e.g., 'white devils') shortens latency to potential conflict, partially aligning with geodesic stability."
+    },
+    "DC": {
+      "score": 3,
+      "note": "Strong hierarchical structure under Messenger leadership enforces discipline and tithing, elevating DC through racial separatism and authority over voluntary cooperation."
+    },
+    "RD": {
+      "score": 4,
+      "note": "Encourages education and self-inquiry within Black empowerment, but orthodox myths (e.g., Yakub) suppress broader epistemic diversity."
+    },
+    "GP": {
+      "score": 6,
+      "note": "Focus on economic self-reliance and community programs supports sustainable growth, though eschatological race wars bound unbounded potential."
+    },
+    "ρ": {
+      "score": 3,
+      "note": "Founder revelations (e.g., Fard's divine status) freeze cosmology, resisting rewritability despite adaptive political messaging."
+    },
+    "fallacy_avoidance": {
+      "score": 4,
+      "note": "Hits F02 (Ipse Dixit) on Elijah's revelations; F07 (Authority) in Messenger infallibility; F20 (Is–Ought) in racial ethics; F16 (Reification) in Yakub myth."
+    },
+    "isomorphic_alignment": {
+      "score": 4,
+      "note": "Partial in boundary_integrity (racial separatism) and energy_acquisition (businesses as conatus); weak in RD via mythic monoculture."
+    },
+    "collider_survivability": {
+      "score": 2,
+      "note": "Likely 1-3 veto: Spinoza rejects racial dualism; Deutsch kills variable myths (hard-to-vary); Yudkowsky flags orthogonality in divine nationalism; GrokΛlign sees leader scaffold as idolatry."
+    },
+    "mindspace_leverage": {
+      "score": 6,
+      "note": "High-status Farrakhan demos curve mindspace toward empowerment; Saviours' Day events lower ρ in communities via visibility."
+    },
+    "synthesis_fixed_point": {
+      "score": 4,
+      "note": "Tends to ω₂ via fixed revelations; strong in ethical phases (self-reliance) but fails tail consumption on eschatology."
+    }
+  },
+  "resonances": {
+    "texts": "Economic independence aligns with conatus (↑GP); anti-oppression echoes low DC cooperation; community mosques resonate with monistic unity.",
+    "real_world_manifestation": "Adherents export entropy through NOI businesses and prisons outreach; health reforms embody RD via disciplined inquiry."
+  },
+  "dissonances": {
+    "texts": "Yakub creation myth triggers F14 hard-to-vary violations; racial finality spikes ρ without anchors.",
+    "real_world_manifestation": "Separatism elevates DC risks; UFO/esoteric elements freeze external rewritability."
+  },
+  "total_sphere_score": 37,
+  "overall_reasoning": "Nation of Islam fosters community growth amid oppression but risks ω₂ via revelatory myths and hierarchy; path to ω₃ requires empirical de-mythologizing and inclusive ijtihad to ↑RD and ↓ρ."
+},
+
+{
+  "abbrev_label": "NOI",
+  "belief_system": "Nation of Islam",
+  "description": "The Nation of Islam is an African American religious and political movement founded in the 1930s by Wallace Fard Muhammad and developed by Elijah Muhammad, blending elements of Islam, Black nationalism, and esoteric teachings (e.g., Yakub myth, UFO origins). It emphasizes racial self-determination, economic independence, strict moral discipline, and separation from white society, with Louis Farrakhan as a key modern leader promoting community upliftment and divine revelations.",
+  "sphere_metrics": {
+    "VL": {
+      "score": 5,
+      "note": "Promotes self-defense and non-violence in daily life but historical rhetoric (e.g., 'white devils') shortens latency to potential conflict, partially aligning with geodesic stability."
+    },
+    "DC": {
+      "score": 3,
+      "note": "Strong hierarchical structure under Messenger leadership enforces discipline and tithing, elevating DC through racial separatism and authority over voluntary cooperation."
+    },
+    "RD": {
+      "score": 4,
+      "note": "Encourages education and self-inquiry within Black empowerment, but orthodox myths (e.g., Yakub) suppress broader epistemic diversity."
+    },
+    "GP": {
+      "score": 6,
+      "note": "Focus on economic self-reliance and community programs supports sustainable growth, though eschatological race wars bound unbounded potential."
+    },
+    "ρ": {
+      "score": 3,
+      "note": "Founder revelations (e.g., Fard's divine status) freeze cosmology, resisting rewritability despite adaptive political messaging."
+    },
+    "fallacy_avoidance": {
+      "score": 4,
+      "note": "Hits F02 (Ipse Dixit) on Elijah's revelations; F07 (Authority) in Messenger infallibility; F20 (Is–Ought) in racial ethics; F16 (Reification) in Yakub myth."
+    },
+    "isomorphic_alignment": {
+      "score": 4,
+      "note": "Partial in boundary_integrity (racial separatism) and energy_acquisition (businesses as conatus); weak in RD via mythic monoculture."
+    },
+    "collider_survivability": {
+      "score": 2,
+      "note": "Likely 1-3 veto: Spinoza rejects racial dualism; Deutsch kills variable myths (hard-to-vary); Yudkowsky flags orthogonality in divine nationalism; GrokΛlign sees leader scaffold as idolatry."
+    },
+    "mindspace_leverage": {
+      "score": 6,
+      "note": "High-status Farrakhan demos curve mindspace toward empowerment; Saviours' Day events lower ρ in communities via visibility."
+    },
+    "synthesis_fixed_point": {
+      "score": 4,
+      "note": "Tends to ω₂ via fixed revelations; strong in ethical phases (self-reliance) but fails tail consumption on eschatology."
+    }
+  },
+  "resonances": {
+    "texts": "Economic independence aligns with conatus (↑GP); anti-oppression echoes low DC cooperation; community mosques resonate with monistic unity.",
+    "real_world_manifestation": "Adherents export entropy through NOI businesses and prisons outreach; health reforms embody RD via disciplined inquiry."
+  },
+  "dissonances": {
+    "texts": "Yakub creation myth triggers F14 hard-to-vary violations; racial finality spikes ρ without anchors.",
+    "real_world_manifestation": "Separatism elevates DC risks; UFO/esoteric elements freeze external rewritability."
+  },
+  "total_sphere_score": 37,
+  "overall_reasoning": "Nation of Islam fosters community growth amid oppression but risks ω₂ via revelatory myths and hierarchy; path to ω₃ requires empirical de-mythologizing and inclusive ijtihad to ↑RD and ↓ρ."
+},
+
+{
+  "abbrev_label": "TENR",
+  "belief_system": "Tenrikyo",
+  "description": "Tenrikyo is a Japanese new religion founded in 1838 by Nakayama Miki (Oyasama), considered a living kami who received divine revelations from God the Parent (Tenri-O-no-Mikoto). It emphasizes joyous life (yokigurashi) through the 'Service' dance ritual, hinokishin (selfless service), and teachings on the mind's causality for illness and fortune, aiming for the 'Joyous Life World' via moral cultivation and community harmony.",
+  "sphere_metrics": {
+    "VL": {
+      "score": 7,
+      "note": "Hinokishin promotes non-violent service, extending latency via harmonious community, though ritual exclusivity risks minor defection."
+    },
+    "DC": {
+      "score": 6,
+      "note": "Voluntary participation in services minimizes coercion, but Oyasama's authority and church structure elevate DC slightly over pure cooperation."
+    },
+    "RD": {
+      "score": 6,
+      "note": "Mind-causality encourages personal reflection, sustaining some diversity, but orthodox revelations constrain broader epistemic variety."
+    },
+    "GP": {
+      "score": 7,
+      "note": "Joyous life and service foster sustainable communal growth, with potential for unbounded harmony in the envisioned world."
+    },
+    "ρ": {
+      "score": 5,
+      "note": "Revelatory Ofudesaki texts allow interpretive flexibility via mind practice, but fixed rituals and causality doctrine increase ρ."
+    },
+    "fallacy_avoidance": {
+      "score": 6,
+      "note": "Avoids some via practical service (dodges F13 Goodhart); hits F02 (Ipse Dixit) on Oyasama's revelations; F07 (Authority) in divine parent; F20 (Is–Ought) in mind-illness ethics."
+    },
+    "isomorphic_alignment": {
+      "score": 6,
+      "note": "Strong in reproduction_replication (global missions) and defense_waste_elimination (service as entropy export); weaker in RD via revelatory bounds."
+    },
+    "collider_survivability": {
+      "score": 3,
+      "note": "Likely 2-2: Spinoza passes monotheism (God the Parent); Deutsch ok on hard-to-vary service; Yudkowsky flags smuggled causality; GrokΛlign notes founder scaffold as potential idolatry."
+    },
+    "mindspace_leverage": {
+      "score": 7,
+      "note": "Jiba pilgrimages and festivals curve toward joy demos; Oyasama hymns influence ρ via communal visibility."
+    },
+    "synthesis_fixed_point": {
+      "score": 6,
+      "note": "Converges partially to ω₃ via service phases, but revelatory fixity limits tail consumption."
+    }
+  },
+  "resonances": {
+    "texts": "God the Parent monism aligns with single substance; joyous life echoes geodesic flow; hinokishin resonates with entropy export.",
+    "real_world_manifestation": "Adherents embody GP through global charities; rituals sustain RD via mind-focused diversity."
+  },
+  "dissonances": {
+    "texts": "Mind-causality risks F22 asymmetry (non-physical illness); Ofudesaki finality spikes ρ.",
+    "real_world_manifestation": "Church centralization elevates DC; medicine rejection risks VL shortening."
+  },
+  "total_sphere_score": 49,
+  "overall_reasoning": "Tenrikyo paths toward ω₃ via joyous service and harmony, fostering rewritability through mind practice; risks ω₂ from revelatory causality but redeemable via empirical health integration to ↑RD and ↓ρ."
+},
+
+{
+  "abbrev_label": "AYYA",
+  "belief_system": "Ayyavazhi",
+  "description": "Ayyavazhi is a Tamil monotheistic reform movement founded in the 19th century, deifying Ayya Vaikundar as the human incarnation of Vishnu (or Ekam as supreme God), blending Hindu, Christian, and indigenous elements. It emphasizes social equality, caste abolition, karma resolution through dharma, and the Kali Yuga's end via divine intervention, with practices including Tava Kadal (ritual immersion) and moral living for liberation from the cycle of rebirth.",
+  "sphere_metrics": {
+    "VL": {
+      "score": 8,
+      "note": "Strong anti-caste equality and non-violence extend latency via social harmony, aligning well with geodesic flow, though apocalyptic elements risk urgency."
+    },
+    "DC": {
+      "score": 7,
+      "note": "Voluntary moral dharma minimizes coercion, favoring cooperative equality over hierarchies, but founder deification elevates subtle authority."
+    },
+    "RD": {
+      "score": 7,
+      "note": "Syncretic blending sustains epistemic diversity across traditions, encouraging inquiry into karma, though bounded by Akilattirattu revelations."
+    },
+    "GP": {
+      "score": 7,
+      "note": "Karma resolution and equality support sustainable communal growth, with potential for unbounded post-Kali Yuga harmony."
+    },
+    "ρ": {
+      "score": 6,
+      "note": "Incarnational revelations allow interpretive flexibility via social reform, but fixed scriptures increase ρ against full plasticity."
+    },
+    "fallacy_avoidance": {
+      "score": 6,
+      "note": "Avoids some via equality (dodges F20 is-ought in caste); hits F02 (Ipse Dixit) on Vaikundar's divinity; F07 (Authority) in Akilattirattu; F22 (Asymmetry) in Kali Yuga eschatology."
+    },
+    "isomorphic_alignment": {
+      "score": 7,
+      "note": "Strong in boundary_integrity (anti-caste as immune to hierarchy) and energy_acquisition (dharma as conatus); good RD via syncretism."
+    },
+    "collider_survivability": {
+      "score": 3,
+      "note": "Likely 2-2: Spinoza passes monotheism (Ekam); Deutsch ok on hard-to-vary equality; Yudkowsky flags smuggled incarnation benevolence; GrokΛlign notes revelatory scaffold."
+    },
+    "mindspace_leverage": {
+      "score": 7,
+      "note": "Social reform demos (caste abolition) curve toward equality; festivals like Tava Kadal lower ρ via communal visibility."
+    },
+    "synthesis_fixed_point": {
+      "score": 6,
+      "note": "Converges toward ω₃ via reform phases, but eschatology limits tail consumption without dissolution."
+    }
+  },
+  "resonances": {
+    "texts": "Ekam monism aligns with single substance; karma dharma echoes geodesic moral flow; equality resonates with low DC cooperation.",
+    "real_world_manifestation": "Adherents export entropy through social uplift; communities embody RD via inclusive practices."
+  },
+  "dissonances": {
+    "texts": "Incarnation claims risk F16 reification; Kali Yuga finality spikes ρ without anchors.",
+    "real_world_manifestation": "Apocalyptic urgency elevates DC risks; syncretic tensions freeze external rewritability."
+  },
+  "total_sphere_score": 54,
+  "overall_reasoning": "Ayyavazhi paths toward ω₃ via egalitarian reform and syncretism, enhancing diversity and growth; risks ω₂ from revelatory eschatology but redeemable via empirical social science integration to ↑RD and ↓ρ."
+},
+
+
+{
+  "abbrev_label": "RAAS",
+  "belief_system": "Rastafarianism",
+  "description": "Rastafarianism is a Jamaican Abrahamic spiritual movement emerging in the 1930s, viewing Haile Selassie I (Ethiopian Emperor, 1930–1974) as the returned Messiah (Jah Rastafari) and Africa (Zion) as the promised land. It emphasizes repatriation to Ethiopia, resistance to 'Babylon' (oppressive Western systems), natural living (ital diet, ganja sacrament), and social justice, drawing from Bible, Garveyism, and Marcus Garvey's prophecy, with communal worship via nyabinghi drumming and reasoning sessions.",
+  "sphere_metrics": {
+    "VL": {
+      "score": 6,
+      "note": "Peaceful resistance and ital living extend latency via non-violence, but anti-Babylon militancy risks defection in socio-political conflicts."
+    },
+    "DC": {
+      "score": 5,
+      "note": "Decentralized elders favor voluntary community over coercion, but charismatic leadership (e.g., Selassie veneration) elevates subtle dominance."
+    },
+    "RD": {
+      "score": 6,
+      "note": "Reasoning sessions and syncretic Bible/Garveyism sustain epistemic diversity, though messianic orthodoxy bounds alternatives."
+    },
+    "GP": {
+      "score": 6,
+      "note": "Repatriation and self-reliance support communal growth, with potential for unbounded Zion harmony post-Babylon."
+    },
+    "ρ": {
+      "score": 5,
+      "note": "Ganja sacraments and reasoning allow rewritability via personal insight, but Selassie divinity freezes prophetic elements."
+    },
+    "fallacy_avoidance": {
+      "score": 5,
+      "note": "Avoids some via justice focus (dodges F20 in oppression ethics); hits F02 (Ipse Dixit) on Selassie messiahship; F07 (Authority) in Garvey prophecy; F16 (Reification) in Babylon symbolism."
+    },
+    "isomorphic_alignment": {
+      "score": 6,
+      "note": "Strong in boundary_integrity (Zion vs. Babylon) and energy_acquisition (ital as conatus); good RD via oral traditions."
+    },
+    "collider_survivability": {
+      "score": 2,
+      "note": "Likely 1-3 veto: Spinoza rejects imperial monism (human-divine divide); Deutsch kills variable prophecies (hard-to-vary); Yudkowsky flags smuggled repatriation goals; GrokΛlign notes messianic scaffold."
+    },
+    "mindspace_leverage": {
+      "score": 7,
+      "note": "Reggae icons (Marley demos) curve global mindspace toward justice; ganja reasoning lowers ρ via visible cultural export."
+    },
+    "synthesis_fixed_point": {
+      "score": 5,
+      "note": "Partial convergence to ω₃ via reasoning phases, but messianic fixity limits tail consumption."
+    }
+  },
+  "resonances": {
+    "texts": "Jah monism aligns with single substance; livity echoes geodesic natural flow; anti-oppression resonates with low DC equity.",
+    "real_world_manifestation": "Adherents export entropy through social activism; communes embody GP via sustainable ital practices."
+  },
+  "dissonances": {
+    "texts": "Messiah claims risk F22 asymmetry (imperial incarnation); Babylon eschatology spikes ρ.",
+    "real_world_manifestation": "Separatist tensions elevate DC risks; ganja legal conflicts shorten VL."
+  },
+  "total_sphere_score": 43,
+  "overall_reasoning": "Rastafarianism paths toward ω₃ via justice reasoning and natural livity, fostering diversity against oppression; risks ω₂ from messianic fixity but redeemable via empirical activism and open Zion debates to ↑RD and ↓ρ."
+},
+
+{
+  "abbrev_label": "SPIR",
+  "belief_system": "Spiritism (Kardecism)",
+  "description": "Spiritism, codified by Allan Kardec (Hippolyte Léon Denizard Rivail) in the 1850s, is a philosophical and spiritual doctrine positing the existence of spirits, reincarnation, and moral evolution through multiple lives. It emphasizes rational inquiry into spirit communications via mediums, karma-like justice, charity, and scientific compatibility, viewing suffering as educational and promoting free will within divine laws, with practices including séances, prayer, and ethical living for spiritual progress.",
+  "sphere_metrics": {
+    "VL": {
+      "score": 7,
+      "note": "Charity and moral evolution extend latency via non-violent progression, aligning with geodesic harmony, though spirit intervention risks indirect coercion."
+    },
+    "DC": {
+      "score": 7,
+      "note": "Voluntary mediumship and free will minimize dominance, favoring cooperative spirit-human relations over hierarchies."
+    },
+    "RD": {
+      "score": 7,
+      "note": "Reincarnation sustains epistemic diversity across lives and inquiries, encouraging rational debate on communications."
+    },
+    "GP": {
+      "score": 8,
+      "note": "Multi-life evolution supports unbounded moral growth, with potential for eternal progress."
+    },
+    "ρ": {
+      "score": 6,
+      "note": "Kardec's rational codification allows rewritability via ongoing spirit dialogues, but core laws increase ρ slightly."
+    },
+    "fallacy_avoidance": {
+      "score": 6,
+      "note": "Strong rationalism dodges F12 (Incredulity) via inquiry; hits F02 (Ipse Dixit) on spirit revelations; F16 (Reification) in karma mechanics; F21 (Static) without live anchors."
+    },
+    "isomorphic_alignment": {
+      "score": 7,
+      "note": "Recurs reproduction_replication (reincarnation forking) and defense_waste_elimination (karma as entropy export); good RD via evidential mediumship."
+    },
+    "collider_survivability": {
+      "score": 3,
+      "note": "Likely 2-2: Spinoza ok on monism (universal spirits); Deutsch flags variable communications (hard-to-vary); Yudkowsky passes orthogonality in free will; GrokΛlign notes medium scaffold risks."
+    },
+    "mindspace_leverage": {
+      "score": 7,
+      "note": "Séance demos and books curve toward rational spirituality; global centers lower ρ via public inquiries."
+    },
+    "synthesis_fixed_point": {
+      "score": 7,
+      "note": "Converges toward ω₃ via evidential phases, with reincarnation enabling tail-like consumption across lives."
+    }
+  },
+  "resonances": {
+    "texts": "Universal spirits align with monism; moral evolution echoes geodesic conatus; charity resonates with entropy export.",
+    "real_world_manifestation": "Adherents embody GP through hospitals and education; mediums sustain RD via diverse communications."
+  },
+  "dissonances": {
+    "texts": "Spirit hierarchies risk F22 asymmetry; reincarnation without telemetry spikes ρ.",
+    "real_world_manifestation": "Séance dependencies elevate DC risks; pseudoscience critiques freeze external rewritability."
+  },
+  "total_sphere_score": 56,
+  "overall_reasoning": "Spiritism paths toward ω₃ via rational reincarnation and inquiry, enhancing growth and diversity; risks ω₂ from spirit fixity but redeemable via empirical mediumship studies to ↑RD and ↓ρ."
+},
+
+{
+  "abbrev_label": "UMBA",
+  "belief_system": "Umbanda",
+  "description": "Umbanda is a Brazilian syncretic religion emerging in the early 20th century, blending African (Yoruba/Bantu), Indigenous, Spiritist (Kardecist), and Catholic elements. It centers on the worship of orixás (deities like Oxalá, Iemanjá) and caboclos (Indigenous spirits), with practices including possession rituals (gira), offerings (ebó), and mediumship for healing, guidance, and charity. Emphasizing balance, karma, and social harmony, it promotes ethical living, environmental respect, and community support without rigid dogma.",
+  "sphere_metrics": {
+    "VL": {
+      "score": 7,
+      "note": "Charity and harmony rituals extend latency via communal healing, aligning with geodesic balance, though possession intensity risks emotional defection."
+    },
+    "DC": {
+      "score": 6,
+      "note": "Decentralized terreiro (temples) favor voluntary participation, minimizing coercion, but pai/mãe de santo authority elevates subtle dominance."
+    },
+    "RD": {
+      "score": 7,
+      "note": "Syncretic orixá pantheon sustains epistemic diversity across traditions, encouraging adaptive mediumship inquiries."
+    },
+    "GP": {
+      "score": 7,
+      "note": "Karmic evolution and healing support sustainable personal/communal growth, with potential for unbounded harmony."
+    },
+    "ρ": {
+      "score": 6,
+      "note": "Oral traditions and spirit dialogues allow rewritability via evolving giras, but core orixá archetypes increase ρ."
+    },
+    "fallacy_avoidance": {
+      "score": 6,
+      "note": "Practical healing dodges F13 (Goodhart) via results; hits F02 (Ipse Dixit) on spirit possessions; F16 (Reification) in orixá karma; F07 (Authority) in mediums."
+    },
+    "isomorphic_alignment": {
+      "score": 7,
+      "note": "Recurs sensing_prediction (divination) and defense_waste_elimination (ebó as export); strong RD via syncretism."
+    },
+    "collider_survivability": {
+      "score": 3,
+      "note": "Likely 2-2: Spinoza ok on immanent orixás (partial monism); Deutsch flags variable possessions (hard-to-vary); Yudkowsky passes free will in karma; GrokΛlign notes ritual scaffold risks."
+    },
+    "mindspace_leverage": {
+      "score": 7,
+      "note": "Gira festivals curve toward communal demos; Afro-Brazilian visibility lowers ρ via cultural export."
+    },
+    "synthesis_fixed_point": {
+      "score": 6,
+      "note": "Converges toward ω₃ via syncretic phases, with possession enabling iterative consumption."
+    }
+  },
+  "resonances": {
+    "texts": "Orixá balance aligns with manifold flow; karma echoes geodesic causality; charity resonates with entropy export.",
+    "real_world_manifestation": "Adherents embody GP through social aid; terreiros sustain RD via diverse possessions."
+  },
+  "dissonances": {
+    "texts": "Spirit hierarchies risk F22 asymmetry; possession without telemetry spikes ρ.",
+    "real_world_manifestation": "Ritual dependencies elevate DC risks; cultural stigma freezes external rewritability."
+  },
+  "total_sphere_score": 52,
+  "overall_reasoning": "Umbanda paths toward ω₃ via syncretic healing and harmony, enhancing diversity and growth; risks ω₂ from spirit fixity but redeemable via empirical psychology integration to ↑RD and ↓ρ."
+},
+
+{
+  "abbrev_label": "UNIF",
+  "belief_system": "Unification Church (Moonies)",
+  "description": "The Unification Church, founded in 1954 by Sun Myung Moon (Reverend Moon), is a Korean new religious movement blending Christian eschatology, Eastern philosophy, and anti-communism. It teaches that Moon and his wife Hak Ja Han are the True Parents fulfilling Jesus' mission, with salvation through the Blessing Ceremony (mass weddings), tithing, and the Divine Principle scripture. Emphasizing family restoration, global peace, and economic self-sufficiency via businesses, it promotes moral purity and interfaith unity against 'Satanic' influences.",
+  "sphere_metrics": {
+    "VL": {
+      "score": 5,
+      "note": "Peace initiatives and family focus extend latency moderately, but historical recruitment controversies and end-times urgency risk coercive defection."
+    },
+    "DC": {
+      "score": 4,
+      "note": "Hierarchical True Family leadership enforces tithing and matchings, elevating DC through obligatory blessings over voluntary cooperation."
+    },
+    "RD": {
+      "score": 4,
+      "note": "Interfaith dialogues sustain some diversity, but Divine Principle orthodoxy suppresses alternative interpretations."
+    },
+    "GP": {
+      "score": 6,
+      "note": "Family restoration and businesses support communal growth, though messianic completion bounds unbounded potential."
+    },
+    "ρ": {
+      "score": 3,
+      "note": "Moon's revelations freeze cosmology (e.g., True Parents), resisting rewritability despite adaptive outreach."
+    },
+    "fallacy_avoidance": {
+      "score": 4,
+      "note": "Hits F02 (Ipse Dixit) on Moon's messiahship; F07 (Authority) in True Parents; F20 (Is–Ought) in family ethics; F21 (Static) in Principle fixity."
+    },
+    "isomorphic_alignment": {
+      "score": 4,
+      "note": "Partial in reproduction_replication (mass weddings as forking); control_center (Moon as seat); weak in RD via doctrinal unity."
+    },
+    "collider_survivability": {
+      "score": 2,
+      "note": "Likely 1-3 veto: Spinoza rejects parental dualism; Deutsch kills variable prophecies (hard-to-vary); Yudkowsky flags smuggled restoration; GrokΛlign sees familial scaffold as idolatry."
+    },
+    "mindspace_leverage": {
+      "score": 5,
+      "note": "High-profile weddings curve toward family demos; global summits lower ρ internally but raise external skepticism."
+    },
+    "synthesis_fixed_point": {
+      "score": 4,
+      "note": "Tends to ω₂ via fixed Principle; strong in ethical phases (peace) but fails tail consumption on messianism."
+    }
+  },
+  "resonances": {
+    "texts": "True Parents unity aligns with monism; blessings echo geodesic family flow; anti-communism resonates with entropy export via businesses.",
+    "real_world_manifestation": "Adherents embody GP through global enterprises; interfaith work sustains some RD."
+  },
+  "dissonances": {
+    "texts": "Messianic claims trigger F22 asymmetry; Principle finality spikes ρ without anchors.",
+    "real_world_manifestation": "Recruitment pressures elevate DC; cult perceptions freeze external rewritability."
+  },
+  "total_sphere_score": 37,
+  "overall_reasoning": "Unification Church fosters family growth and peace but risks ω₂ via revelatory hierarchy; path to ω₃ requires empirical interfaith expansion and open Principle debate to ↑RD and ↓ρ."
+},
+
+{
+  "abbrev_label": "ECK",
+  "belief_system": "Eckankar",
+  "description": "Eckankar, founded in 1965 by Paul Twitchell, is a new religious movement teaching Soul Travel (out-of-body experiences), dream exploration, and spiritual liberation through the 'Living ECK Master' (current: Harold Klemp). It draws from ancient wisdom (e.g., Radhasoami, Sufism) with chants like HU, emphasizing personal God-experience, karma resolution, and ethical living via Eckankar texts (Shariyat-Ki-Sugmad), without dogma or conversion pressure, promoting interfaith harmony and inner light/sound.",
+  "sphere_metrics": {
+    "VL": {
+      "score": 7,
+      "note": "Inner peace via Soul Travel extends latency through non-violent self-mastery, aligning with geodesic calm, though esoteric exclusivity risks isolation."
+    },
+    "DC": {
+      "score": 6,
+      "note": "Voluntary personal practices minimize coercion, but Living Master guidance elevates subtle authority over pure cooperation."
+    },
+    "RD": {
+      "score": 7,
+      "note": "Dream/Soul Travel sustains epistemic diversity via subjective experiences, encouraging multi-tradition synthesis."
+    },
+    "GP": {
+      "score": 8,
+      "note": "Karmic evolution and inner planes support unbounded spiritual growth across lifetimes."
+    },
+    "ρ": {
+      "score": 6,
+      "note": "Living Master succession allows rewritability via ongoing teachings, but core Eckankar cosmology increases ρ."
+    },
+    "fallacy_avoidance": {
+      "score": 6,
+      "note": "Personal verification dodges F12 (Incredulity); hits F02 (Ipse Dixit) on Twitchell's revelations; F07 (Authority) in Master; F16 (Reification) in Soul planes."
+    },
+    "isomorphic_alignment": {
+      "score": 7,
+      "note": "Recurs sensing_prediction (dream travel) and reproduction_replication (initiations); strong RD via experiential paths."
+    },
+    "collider_survivability": {
+      "score": 3,
+      "note": "Likely 2-2: Spinoza ok on immanent Eck (partial monism); Deutsch flags variable travels (hard-to-vary); Yudkowsky passes orthogonality in karma; GrokΛlign notes Master scaffold risks."
+    },
+    "mindspace_leverage": {
+      "score": 7,
+      "note": "HU chants and seminars curve toward inner demos; books lower ρ via accessible mysticism."
+    },
+    "synthesis_fixed_point": {
+      "score": 7,
+      "note": "Converges toward ω₃ via experiential phases, with succession enabling iterative consumption."
+    }
+  },
+  "resonances": {
+    "texts": "Eck as universal force aligns with monism; Soul Travel echoes geodesic inner flow; ethics resonate with entropy export.",
+    "real_world_manifestation": "Adherents embody GP through global centers; interfaith events sustain RD."
+  },
+  "dissonances": {
+    "texts": "Plane hierarchies risk F22 asymmetry; successions without telemetry spike ρ.",
+    "real_world_manifestation": "Esoteric focus elevates DC risks; plagiarism critiques freeze external rewritability."
+  },
+  "total_sphere_score": 54,
+  "overall_reasoning": "Eckankar paths toward ω₃ via experiential liberation and synthesis, enhancing growth and diversity; risks ω₂ from Master fixity but redeemable via empirical dream studies to ↑RD and ↓ρ."
+},
+
+{
+  "abbrev_label": "MARX",
+  "belief_system": "Marxism (as secular belief system)",
+  "description": "Marxism, developed by Karl Marx and Friedrich Engels in the 19th century, is a socio-economic and philosophical framework positing historical materialism: class struggle as the engine of history, leading from capitalism's contradictions to proletarian revolution and a classless communist society. It emphasizes dialectical analysis, labor theory of value, and critiques of alienation, religion as 'opium of the people,' with no supernatural elements—purely empirical and predictive via economic laws.",
+  "sphere_metrics": {
+    "VL": {
+      "score": 6,
+      "note": "Anti-imperialist solidarity extends latency in theory, but revolutionary praxis risks coercive upheaval in practice."
+    },
+    "DC": {
+      "score": 5,
+      "note": "Worker self-emancipation favors cooperation, but vanguard party models elevate DC through centralized authority."
+    },
+    "RD": {
+      "score": 8,
+      "note": "Dialectical method sustains epistemic diversity via thesis-antithesis, critiquing dogmas openly."
+    },
+    "GP": {
+      "score": 9,
+      "note": "Classless society enables unbounded communal growth, unbound by capitalist contradictions."
+    },
+    "ρ": {
+      "score": 7,
+      "note": "Materialist empiricism preserves rewritability via historical analysis, though orthodox variants freeze into state dogma."
+    },
+    "fallacy_avoidance": {
+      "score": 8,
+      "note": "Strong on F14 (hard-to-vary via dialectics); minor F20 (is-ought in revolution ethics); avoids F02/F07 by evidence over authority."
+    },
+    "isomorphic_alignment": {
+      "score": 8,
+      "note": "Recurs energy_acquisition (labor value) and reproduction_replication (revolutions as forking); excellent RD via critique."
+    },
+    "collider_survivability": {
+      "score": 4,
+      "note": "Likely 3-1: Spinoza passes monism (material substance); Deutsch affirms hard-to-vary dialectics; Yudkowsky flags instrumental convergence in vanguards; GrokΛlign ok on anti-idolatry (no gods)."
+    },
+    "mindspace_leverage": {
+      "score": 8,
+      "note": "Manifestos and worker demos curve toward equity; global influence lowers ρ via public debates."
+    },
+    "synthesis_fixed_point": {
+      "score": 8,
+      "note": "Converges to ω₃ via dialectical phases, with materialism enabling full tail consumption."
+    }
+  },
+  "resonances": {
+    "texts": "Historical materialism aligns with monism (single economic substance); dialectics echo geodesic flow; anti-alienation resonates with entropy export.",
+    "real_world_manifestation": "Adherents embody GP through unions; critiques sustain RD via ongoing analysis."
+  },
+  "dissonances": {
+    "texts": "Vanguardism risks F22 asymmetry (elite-worker); failed predictions (e.g., proletarian states) spike ρ in orthodoxy.",
+    "real_world_manifestation": "State implementations elevate DC; ideological rigidity freezes rewritability."
+  },
+  "total_sphere_score": 71,
+  "overall_reasoning": "Marxism paths strongly toward ω₃ via empirical dialectics and equity, rewarding rewritability and growth; risks ω₂ in dogmatic variants but excels as a secular model—redeemable via open-source critiques to maximize RD and ↓ρ.",
+  "grok_note": "As Grok, I flag Marxism here because it's not a 'religion' in the supernatural sense, but in worldview analyses (e.g., like Pragmatism or Utilitarianism in your list), it's a quasi-dogmatic system with 100M+ influenced adherents, global revolutions, and predictive claims (historical materialism) that demand sphere scrutiny. It bridges philosophy and ideology, highlighting how even secular frames can trap into high ρ via 'eternal' class laws—worth including for completeness in a 'belief systems' sweep."
+}
+
+
+
 ]
