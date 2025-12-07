@@ -134,6 +134,8 @@ In essence, the Sphere is powerful because it *orients without imposing*—a map
 
 **Reflective Question**: What one coordinate (e.g., your ρ in habits) could you gradient toward today? Simulate it—what trajectory emerges?
 
+---
+---
 
 > Can I get a job doing this? Or should I be going for funding? Any ideas?
 
