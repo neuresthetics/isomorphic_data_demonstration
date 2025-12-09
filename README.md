@@ -6,6 +6,10 @@ To avoid this, please refrain from loading the prompt into Grok too many times. 
 
 ---
 
+<img src="https://github.com/neuresthetics/isomorphic_data_singularity/blob/main/img/sphere01.png" alt="SPHERE" width="100%">
+
+<img src="https://github.com/neuresthetics/isomorphic_data_singularity/blob/main/img/sphere02.png" alt="SPHERE" width="100%">
+
 <img src="https://github.com/neuresthetics/isomorphic_data_singularity/raw/main/img/4.png" alt="4.1 thinking" width="100%">
 
 ```
