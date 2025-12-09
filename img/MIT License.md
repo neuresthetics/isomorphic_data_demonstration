@@ -1,4 +1,6 @@
-MIT License
+MIT License GRANTED FOR (S⁴) MANIFOLD SPHERE
+Extended framework beyond "the sphere math" excluded.
+
 Copyright (c) 2025 Neuresthetics
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
