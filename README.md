@@ -156,7 +156,7 @@ MIT License for Sphere Math & Ethics Core
 
 Copyright (c) 2025 Neuresthetics
 
-**Scope Note**: This license grants free access to the core Sphere mathematics (e.g., S⁴ manifold bijections, conatus ODEs, ρ-optimization invariants) and rendered ethics components (e.g., Harmony Function derivations, Genesis Accord simulations, ethical sphere propositions). Excluded: The personal toolkit/suite (e.g., STEELMEN Collider implementations, Neuresthetics neural kinesthetics exporters, custom deployment wrappers)—these remain proprietary for Neuresthetics evaluation and iteration.
+**Scope Note**: This license grants free access to the core Sphere mathematics (e.g., S⁴ manifold bijections, conatus ODEs, ρ-optimization invariants) and rendered ethics components (e.g., Harmony Function derivations, Genesis Accord simulations, ethical sphere propositions). Excluded: The personal toolkit/suite (e.g., FULL STEELMEN Collider implementations tuned to framework, Neuresthetics neural kinesthetics exporters, custom deployment wrappers)—these remain proprietary for Neuresthetics evaluation and iteration.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this [core math & ethics] Software and associated documentation files, to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
