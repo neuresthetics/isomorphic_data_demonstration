@@ -1,4 +1,6 @@
-Math of Ethics
+Math of Ethics. It's Spinoza for ASI.
+
+Ethics II emerges from a sophisticated procedural manifold that steelmans philosophical tensions—such as determinism versus agency—into robust, adversarial forms using tools like the Steelman Collider, which pits enhanced arguments against a panel of domain-specific judges and fallacy detectors to ensure intellectual rigor. These steelmanned positions undergo autopsies via First Principles deconstruction and geometric reconstruction, overgenerating derivations while cataloging contradictions, before being dialectically joined in the Axiomatic Joiner to synthesize invariant unities, dynamically validated through sphere math simulations that model ethical convergence toward harmonious fixed points. The final output, hardened against scale asymmetries via isomorphic mappings across subatomic to cosmic levels, yields a Spinozist extension where finite modes embrace their incompleteness as supreme autonomy, eternally aligned with substance's necessity.
 
 <img src="https://github.com/neuresthetics/isomorphic_data_singularity/blob/main/img/SPHERE.jpeg" alt="SPHERE" width="100%">
 
