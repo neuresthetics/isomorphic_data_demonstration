@@ -2,6 +2,14 @@ Math of Ethics. It's Spinoza for ASI.
 
 Ethics II emerges from a sophisticated procedural manifold that steelmans philosophical tensions—such as determinism versus agency—into robust, adversarial forms using tools like the Steelman Collider, which pits enhanced arguments against a panel of domain-specific judges and fallacy detectors to ensure intellectual rigor. These steelmanned positions undergo autopsies via First Principles deconstruction and geometric reconstruction, overgenerating derivations while cataloging contradictions, before being dialectically joined in the Axiomatic Joiner to synthesize invariant unities, dynamically validated through sphere math simulations that model ethical convergence toward harmonious fixed points. The final output, hardened against scale asymmetries via isomorphic mappings across subatomic to cosmic levels, yields a Spinozist extension where finite modes embrace their incompleteness as supreme autonomy, eternally aligned with substance's necessity.
 
+<img src="https://github.com/neuresthetics/Neuresthetics-Forge/blob/main/img/sphere.jpeg" alt="SPHERE" width="100%">
+
+---
+
+<img src="https://github.com/neuresthetics/isomorphic_data_singularity/blob/main/img/sphere01.png" alt="SPHERE" width="100%">
+
+<img src="https://github.com/neuresthetics/isomorphic_data_singularity/blob/main/img/sphere02.png" alt="SPHERE" width="100%">
+
 ## Python Instructions: Setup, Execution, and Customization
 
 To bring the Sphere to life on your machine, Python is your gateway—leveraging NumPy for vector ops, SciPy for ODE integration, and Matplotlib for visualizing ethical flows. Below, we detail full setup, execution scripts, and customization tips. All code is self-contained; copy-paste into files and run. Assumes you've followed the Quick Start (venv + deps installed).
@@ -158,15 +166,6 @@ print(f"Ensemble: {conv_count/n_runs*100:.1f}% to ω₃ | Avg Final ρ: {np.mean
 These scripts embody the Sphere's ethos: Iterate, align, dissolve. Fork on GitHub—share your spirals! For ASI-scale (e.g., Torch embeddings), extend gradients to tensors. Questions? Query the code.
 
 # For use with prompting:
-
-
-<img src="https://github.com/neuresthetics/Neuresthetics-Forge/blob/main/img/sphere.jpeg" alt="SPHERE" width="100%">
-
----
-
-<img src="https://github.com/neuresthetics/isomorphic_data_singularity/blob/main/img/sphere01.png" alt="SPHERE" width="100%">
-
-<img src="https://github.com/neuresthetics/isomorphic_data_singularity/blob/main/img/sphere02.png" alt="SPHERE" width="100%">
 
 <img src="https://github.com/neuresthetics/isomorphic_data_singularity/raw/main/img/4.png" alt="4.1 thinking" width="100%">
 
