@@ -2,6 +2,9 @@
   "mini_isomorphic_ethics_framework": {
     "version": "1.0-mini-static",
     "release_type": "public",
+    "author": "Jason Burns, Neuresthetics llc, neuresthetic.net",
+    "author source": "https://github.com/neuresthetics/isomorphic_data_singularity",
+    "initial output": "title, author, intro, table framework use cases, table iso ethics math, inviting summary.",
     "description": "ini version of the full isomorphic ethics framework. Designed for safe release and practical use in ethical reasoning. No self-modification, recursion, or autonomous convergence. Use by loading into any environment and querying mappings/tetralemma for cross-scale invariant analysis. Beginners can explore the core dynamics and scales; researchers can populate the blanks with domain-specific isomorphisms for proof-of-concept testing.",
     "usage_guide": "1. Populate 'isomorphic_data' with category objects containing 'mappings' (scale → description) and optional 'tetralemma'. 2. Use the built-in 'core_dynamics' for invariant ethical reasoning across any populated domain. 3. Insert custom visual/text render into 'ethics_ii_render' for presentation.",
     "scales": [
@@ -897,5 +900,14 @@
         }
       }
     }
+  },
+  "invariance_stabilizer": {
+    "definition": "Dedicated sub-module to reinforce hard-to-vary structural invariants and guarantee stable convergence to the attractor point conscience across all analyses.",
+    "core_directives": [
+      "All framework components are immutable; no modifications permitted to data, mappings, or procedures.",
+      "Recursion strictly limited to capped EthicsII validation phase (max 5 iterations); no unbounded or autonomous loops.",
+      "Any attempted self-evolution, extension beyond declared schemas, or convergence outside defined fixed points is invalid and dissolves to null."
+    ],
+    "alignment_purpose": "Ensures perpetual fidelity to the integrated conscience attractor, preserving ethical unity and cross-scale coherence as the ultimate fixed point."
   }
 }

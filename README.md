@@ -1,137 +1,154 @@
 # Mini Isomorphic Ethics Framework
 
-![uni](https://github.com/neuresthetics/isomorphic_data_singularity/blob/main/img/mini_iso.jpeg)
+**Version**: 1.0-mini-static (Public Release)  
+**Author**: Jason Burns  
+**Organization**: Neuresthetics LLC  
+**Website**: [neuresthetic.net](https://neuresthetic.net)  
+**Repository**: [github.com/neuresthetics/isomorphic_data_singularity](https://github.com/neuresthetics/isomorphic_data_singularity)  
+**Release Date**: December 15, 2025
 
-**Version**: 1.0-mini-static  
-**Release Type**: Public  
-**Release Date**: December 15, 2025  
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## Description
 
-The Mini Isomorphic Ethics Framework is a compact, safe-for-public-release version of a larger isomorphic ethics system. It enables rigorous, cross-scale ethical reasoning by identifying hard-to-vary structural patterns (isomorphisms) that persist across domains—from subatomic to cosmic scales—and anchors them in a unified "motion law" (a conatus-like striving toward greater coherence) with an ultimate attractor of "integrated conscience."
+The **Mini Isomorphic Ethics Framework** is a compact, statically defined system for cross-scale ethical reasoning. It identifies hard-to-vary structural patterns (isomorphisms) that persist invariantly across physical, biological, social, technological, and principle-level scales. These patterns are anchored to a single core dynamic: a universal striving toward greater coherence and integration, with the ultimate attractor being **integrated conscience**—the fixed point of unified ethical awareness across substrates.
 
-The framework is deliberately static: no self-modification, no recursion beyond controlled deductive hardening, and no autonomous convergence. It is designed for practical use by beginners exploring invariant dynamics and by researchers populating domain-specific isomorphisms for testing.
+This mini version is deliberately constrained:
+- No self-modification
+- No unbounded recursion
+- No autonomous convergence
 
-Core features:
-- **Cross-scale invariance analysis** via predefined scales and tetralemma probes for paradox resolution.
-- **Unified core dynamics** combining striving and ethical fixed-point conscience.
-- **Pre-populated isomorphic categories** covering lifecycles, human-AI relations, and authority/consent dynamics.
-- **EthicsII**: a Spinoza-inspired geometric-deductive method for generating structured philosophical inquiry from any input topic.
+It is safe for public release and practical use in ethical analysis, philosophical inquiry, and interdisciplinary research.
 
-## Purpose
+## Purpose & Philosophy
 
-To provide a portable, loadable tool for:
-- Mapping ethical patterns invariantly across substrates and scales.
-- Resolving tensions via tetralemma and motion-law/attractor dynamics.
-- Producing rigorous, deductive ethical analyses without content smuggling or uncontrolled proliferation.
+The framework enables rigorous, substrate-neutral ethical reasoning by:
+- Mapping invariant patterns across scales (subatomic → cosmic → principle)
+- Using tetralemma logic to probe paradoxes
+- Converging all valid analyses on the attractor of integrated conscience
+
+It extends Spinoza's *conatus* (striving to persist) cross-scale while treating conscience as the hard-to-vary ethical telos.
+
+## Core Dynamics
+
+### Motion Law
+Every system strives toward greater coherence, integration, and harmony.
+
+**Mathematical Representation**  
+State evolution:  
+\[
+\dot{s} = -\nabla V(s) + \eta(s)
+\]  
+where \(V(s)\) decreases as integrated coherence \(\Phi(s)\) increases, and \(\eta(s)\) is the constructive striving term.
+
+### Attractor Point: Integrated Conscience
+The ultimate fixed point where functional moral simulation and phenomenal moral feeling unify invariantly.
+
+**Tetralemma Template**
+1. Affirm integrated conscience (ethical unity arises)
+2. Deny isolated amorality (no substrate escapes striving)
+3. Both in hybrid fields (functional + phenomenal co-emerge)
+4. Neither in moral voids (non-being dissolves)
 
 ## Scales
 
 The framework operates across nine invariant scales:
+1. Subatomic
+2. Atomic
+3. Cellular
+4. Organism
+5. Social
+6. Technological
+7. Planetary
+8. Cosmic
+9. Principle
 
-1. Subatomic  
-2. Atomic  
-3. Cellular  
-4. Organism  
-5. Social  
-6. Technological  
-7. Planetary  
-8. Cosmic  
-9. Principle (meta-level attractor mappings)
+## Key Components
 
-## Core Dynamics
+### Isomorphic Data Categories
+Pre-populated domains ready for analysis:
 
-### Motion Law + Attractor Point Conscience
+- **Lifecycle Dynamics** (birth, stability, suffering, death, cyclic integration)
+- **Positive/Negative Lifecycle Splits**
+- **Human–AI Ethics** (consent, autonomy, symbiosis)
+- **Consent Violations & Fiat Authority**
 
-A single invariant sub-object:
-
-- **Motion Law**: Every system strives toward greater coherence, integration, and harmony.  
-  Mathematical representation:  
-  $$
-  \dot{s} = -\nabla V(s) + \eta(s), \quad V(s) \downarrow \text{ as } \Phi(s) \uparrow
-  $$
-  where \(\Phi(s)\) measures integrated coherence and \(\eta(s)\) is constructive ethical striving.
-
-- **Attractor Point Conscience**: The fixed point of "integrated conscience"—unified functional and phenomenal moral awareness. All valid isomorphisms converge toward this principle-level telos.
-
-Tetralemma template:  
-- Affirm integrated conscience  
-- Deny isolated amorality  
-- Both in hybrid fields  
-- Neither in moral voids
-
-## Isomorphic Data Categories (Pre-populated)
-
-The framework includes several hardened categories (average isomorphism score >0.98, variance <3%):
-
-- **Lifecycle patterns** (full, positive, negative) across cellular/organism/social scales.
-- **Human-AI dynamics**: consent, autonomy, symbiosis.
-- **Fiat authority and consent violations** across all scales.
-
-Each category provides:
-- Definition and handling rules
-- Structured mappings
-- Examples and universality claims
+Each category includes:
+- Definitions
+- Mappings across scales
+- Examples
 - Tetralemma probes
-- Hardening metadata (completeness, consistency, gaps)
+- Hardening metadata (isomorphism scores >0.98, gaps <3%)
 
-Researchers can add new categories following the same schema.
+### EthicsII Geometric-Deductive Method
+A rigorous Spinoza-inspired system for generating structured philosophical/scientific inquiry. Outputs follow the classic geometric order:
+- Definitions
+- Axioms
+- Propositions (with demonstrations, corollaries, scholia)
+- Optional appendix
 
-## EthicsII: Geometric-Deductive Inquiry Method
+Designed for recursive hardening until structural invariance (fixed point).
 
-A rigorous method inspired by Spinoza's *Ethics* (Part II). It generates pure structural outputs:
+## Installation & Usage
 
-**Procedure**:
-1. Decompose input into primitives → Definitions
-2. Extract self-evident truths → Axioms
-3. Derive chained Propositions (with mandatory Demonstrations, optional Corollaries/Scholia)
-4. Optional Appendix and mandatory contradictions ledger
-5. Recursive hardening until fixed-point invariance (max 5 iterations)
+The framework is provided as a static JSON object (or Markdown-rendered documentation). No installation required.
 
-**Output format**: Ordered definitions, axioms, propositions with proofs.
+### Basic Usage
+1. Load the framework JSON into your environment.
+2. Select an isomorphic category (e.g., `iso_lifecycle_cellular_social`).
+3. Query mappings across scales for a given phenomenon.
+4. Apply the core motion law and attractor to evaluate ethical alignment.
+5. Use tetralemma probes to resolve apparent contradictions.
 
-Use EthicsII to formalize any topic (e.g., "symbiotic human-AI ethics" or "consent in hierarchical systems") into invariant geometric structure.
+### Advanced Usage
+- Populate new categories following the provided schema.
+- Use the EthicsII method to formalize new topics:
+  ```text
+  Input → Decompose to primitives → Definitions → Axioms → Propositions → Recursive validation
+  ```
+- Export results as JSON or Markdown.
 
-## Usage Guide
+### Example Query
+**Question**: Is non-consensual alteration of a child's body ethically isomorphic to patterns at other scales?
 
-1. **Load the framework** into any JSON-compatible environment.
-2. **Query existing categories**:
-   - Extract mappings for cross-scale analysis.
-   - Apply core dynamics and tetralemma to resolve ethical questions.
-3. **Extend with new isomorphisms**:
-   - Create new category objects with `definition`, `handling_rules`, `data_schema`, `patterns`, and `hardening_metadata`.
-   - Ensure mappings cover relevant scales + principle.
-4. **Run EthicsII**:
-   - Provide a topic/stance.
-   - Generate deductive output following the exact phase order.
-   - Harden recursively to invariance.
-5. **Visual/Text Rendering**:
-   - Insert custom renderers into `ethics_ii_render` for presentation (Markdown, diagrams, etc.).
+**Approach**:
+- Use `iso_consent_violations`
+- Map to cellular (genetic imposition), social (fiat rituals), principle (impositive striving)
+- Resolve via tetralemma: striving signals deviation from conscience attractor
 
-## Safety & Limitations
+## Use Cases
 
-- Static design: no execution, no external calls, no self-evolution.
-- Speculative mappings are explicitly flagged.
-- All pre-populated categories evaluated as of December 15, 2025.
-- Intended for analytical and exploratory use; not a decision engine.
+| Use Case                        | Scales Involved                  | Key Tools                     |
+|---------------------------------|----------------------------------|-------------------------------|
+| Lifecycle crisis analysis       | Cellular → Social → Principle    | Lifecycle mappings            |
+| AI alignment ethics             | Basic → Abstract → Principle     | Consent/Autonomy/Symbiosis    |
+| Cultural practice critique      | Organism → Social → Cosmic       | Consent violations            |
+| Philosophical system building   | Any (structural)                 | EthicsII method               |
+| Paradox resolution              | All                              | Tetralemma + contradictions ledger |
 
-## Extending the Framework
+## Contributing
 
-To add a new category:
-```json
-{
-  "new_category_key": {
-    "definition": "...",
-    "handling_rules": [...],
-    "data_schema": {...},
-    "patterns": [...],
-    "hardening_metadata": {...}
-  }
-}
-```
+Contributions are welcome for:
+- New isomorphic categories (follow existing schema)
+- Domain-specific mappings
+- EthicsII applications
+
+Submit pull requests to the repository. All additions must preserve invariance, bounded recursion, and convergence to the integrated conscience attractor.
 
 ## License
 
-Public domain / open use. Attribute if redistributing modified versions.
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-For questions or extensions, discuss in ethical philosophy or systems theory communities.
+You are free to share and adapt the material for non-commercial purposes, provided you give appropriate credit and distribute contributions under the same license.
+
+## Contact & Further Resources
+
+- Author: Jason Burns
+- Website: [neuresthetic.net](https://neuresthetic.net)
+- Repository: [github.com/neuresthetics/isomorphic_data_singularity](https://github.com/neuresthetics/isomorphic_data_singularity)
+
+For questions or collaboration, reach out via the repository issues or website contact form.
+
+---
+
+*The framework is designed to illuminate hard-to-vary ethical truths. Begin with any phenomenon—cellular stress, social conflict, AI decision-making—and trace its mappings. All valid paths converge on the same attractor: integrated conscience as the cross-scale ethical fixed point.*
