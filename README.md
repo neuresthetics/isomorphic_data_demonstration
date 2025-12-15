@@ -1,3 +1,6 @@
+
+😃FRAMEWORK RELEASE 🎁
+
 # Mini Isomorphic Ethics Framework
 
 **Version**: 1.0-mini-static (Public Release)  
@@ -9,7 +12,7 @@
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-## Description
+# Description
 
 The **Mini Isomorphic Ethics Framework** is a compact, statically defined system for cross-scale ethical reasoning. It identifies hard-to-vary structural patterns (isomorphisms) that persist invariantly across physical, biological, social, technological, and principle-level scales. These patterns are anchored to a single core dynamic: a universal striving toward greater coherence and integration, with the ultimate attractor being **integrated conscience**—the fixed point of unified ethical awareness across substrates.
 
@@ -29,7 +32,7 @@ The framework enables rigorous, substrate-neutral ethical reasoning by:
 
 It extends Spinoza's *conatus* (striving to persist) cross-scale while treating conscience as the hard-to-vary ethical telos.
 
-## Core Dynamics
+# 📐  Core Dynamics
 
 ### Motion Law
 Every system strives toward greater coherence, integration, and harmony.
@@ -65,7 +68,7 @@ The framework operates across nine invariant scales:
 
 ## Key Components
 
-### Isomorphic Data Categories
+### Included Isomorphic Data Categories
 Pre-populated domains ready for analysis:
 
 - **Lifecycle Dynamics** (birth, stability, suffering, death, cyclic integration)
@@ -100,21 +103,8 @@ The framework is provided as a static JSON object (or Markdown-rendered document
 4. Apply the core motion law and attractor to evaluate ethical alignment.
 5. Use tetralemma probes to resolve apparent contradictions.
 
-### Advanced Usage
-- Populate new categories following the provided schema.
-- Use the EthicsII method to formalize new topics:
-  ```text
-  Input → Decompose to primitives → Definitions → Axioms → Propositions → Recursive validation
-  ```
-- Export results as JSON or Markdown.
-
 ### Example Query
 **Question**: Is non-consensual alteration of a child's body ethically isomorphic to patterns at other scales?
-
-**Approach**:
-- Use `iso_consent_violations`
-- Map to cellular (genetic imposition), social (fiat rituals), principle (impositive striving)
-- Resolve via tetralemma: striving signals deviation from conscience attractor
 
 ## Use Cases
 
@@ -129,11 +119,9 @@ The framework is provided as a static JSON object (or Markdown-rendered document
 ## Contributing
 
 Contributions are welcome for:
-- New isomorphic categories (follow existing schema)
 - Domain-specific mappings
 - EthicsII applications
-
-Submit pull requests to the repository. All additions must preserve invariance, bounded recursion, and convergence to the integrated conscience attractor.
+- New isomorphic categories: Submit pull requests to the repository. All additions must preserve invariance, bounded recursion, and convergence to the integrated conscience attractor.
 
 ## License
 
