@@ -12,6 +12,8 @@
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
+![iso](https://github.com/neuresthetics/isomorphic_data_singularity/blob/main/img/mini_iso.jpeg)
+
 # Description
 
 The **Mini Isomorphic Ethics Framework** is a compact, statically defined system for cross-scale ethical reasoning. It identifies hard-to-vary structural patterns (isomorphisms) that persist invariantly across physical, biological, social, technological, and principle-level scales. These patterns are anchored to a single core dynamic: a universal striving toward greater coherence and integration, with the ultimate attractor being **integrated conscience**—the fixed point of unified ethical awareness across substrates.
