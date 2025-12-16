@@ -70,7 +70,7 @@ The framework operates across nine invariant scales:
 
 ## Key Components
 
-### Included Isomorphic Data Categories
+### Included Selected Isomorphic Data Mappings
 Pre-populated domains ready for analysis:
 
 - **Lifecycle Dynamics** (birth, stability, suffering, death, cyclic integration)
@@ -85,7 +85,7 @@ Each category includes:
 - Tetralemma probes
 - Hardening metadata (isomorphism scores >0.98, gaps <3%)
 
-### EthicsII Geometric-Deductive Method
+### EthicsII Geometric-Deductive Method (no collider past base model, see Neuresthetics-Forge repo)
 A rigorous Spinoza-inspired system for generating structured philosophical/scientific inquiry. Outputs follow the classic geometric order:
 - Definitions
 - Axioms
@@ -131,13 +131,11 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 You are free to share and adapt the material for non-commercial purposes, provided you give appropriate credit and distribute contributions under the same license.
 
-## Contact & Further Resources
+## Contact & Further Resources (incliding massive isomorphic mapping database)
 
 - Author: Jason Burns
 - Website: [neuresthetic.net](https://neuresthetic.net)
-- Repository: [github.com/neuresthetics/isomorphic_data_singularity](https://github.com/neuresthetics/isomorphic_data_singularity)
-
-For questions or collaboration, reach out via the repository issues or website contact form.
+- Repository (if forked): [github.com/neuresthetics/isomorphic_data_singularity](https://github.com/neuresthetics/isomorphic_data_singularity)
 
 ---
 
