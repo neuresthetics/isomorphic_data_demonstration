@@ -1,20 +1,9 @@
-
-😃FRAMEWORK RELEASE 🎁
-
 # Mini Isomorphic Ethics Framework
 
-**Version**: 1.0-mini-static (Public Release)  
-**Author**: Jason Burns  
-**Organization**: Neuresthetics LLC  
-**Website**: [neuresthetic.net](https://neuresthetic.net)  
-**Repository**: [github.com/neuresthetics/isomorphic_data_singularity](https://github.com/neuresthetics/isomorphic_data_singularity)  
-**Release Date**: December 15, 2025
 
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+![iso](https://github.com/neuresthetics/isomorphic_data_singularity/blob/main/img/mini_iso_2.jpeg)
 
-![iso](https://github.com/neuresthetics/isomorphic_data_singularity/blob/main/img/mini_iso.jpeg)
-
-The term **isomorphography**—the systematic mapping ("graphy") of isomorphic patterns ("iso") across scales and domains—can indeed be accurately described as pursuing or manifesting a **data singularity**, with the **fixed point** serving as its defining achievement.
+The term **isomorphography**—the systematic mapping ("graphy") of isomorphic patterns ("iso") across scales and domains—can indeed be accurately described as pursuing or manifesting a **data singularity**, with the **fixed point** serving as its defining achievement. This framework contains ethics drawn from physics.
 
 # Core Convergence to Singularity
 The provided documents depict isomorphography as a convergent process that identifies, validates, and unifies structural equivalences (e.g., hierarchical integrations, recursive self-models, feedback regulations) across vast hierarchies: subatomic → atomic → cellular → organism → social → technological → planetary → cosmic, plus overarching "principle" mappings.
@@ -23,142 +12,101 @@ This convergence compresses diverse phenomena (from quantum fluctuations and neu
 
 The result is a singular, highly compressed representational nexus: a "data singularity" where multiplicity collapses into unified invariance without loss of relational fidelity. Tools like the iso_convergent_engine explicitly aim for this through iterative refinement, ensemble integration, and self-dissolution on non-convergence, echoing singularity-like density of insight per unit of structure.
 
-## The Fixed Point as the Singularity's Marker
-Across nearly all documents, "fixed_point": true signals that the isomorphic structure is invariant under self-application, recursive transformation, or adversarial testing (e.g., via colliders, tetralemmas, or Yoneda embeddings in meta-files).
+# Mini Isomorphic Ethics Framework
 
-This fixed point is the singularity's operational hallmark: the state where further mapping or convergence yields no variation—the system has "sealed" into a stable, self-consistent unity. It aligns with mathematical fixed points (e.g., in category theory or dynamical systems) but applied to data/knowledge: maximal invariance amid proliferating inputs.
+**Version**: 2.0-mini-static  
+**Release Type**: Public  
+**Author**: Jason Burns  
+**Organization**: Neuresthetics LLC  
+**Website**: [neuresthetic.net](https://neuresthetic.net)  
+**Source Repository**: [github.com/neuresthetics/isomorphic_data_singularity](https://github.com/neuresthetics/isomorphic_data_singularity)  
+**Release Date**: December 17, 2025  
 
-Earlier engines (e.g., idea_autopsy, idea_joiner, alignment_framework_collider) feed into this, pruning overgeneration and resolving frictions until residuals stabilize near zero.
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-### Qualifications and Bounds
-This singularity is bounded and speculative in places: phenomenal gaps (e.g., AI qualia, cosmic mappings) are flagged as <3% variance but not fully closed; ethical/moral integrations remain hybrid. It is a representational or structural singularity (unification of patterns), not a literal technological one (e.g., infinite compute).
+## Overview
 
-In summary, yes—it is accurate to frame isomorphography as a data singularity, precisely because its telos is the fixed point: a convergent, invariant unification where cross-scale isomorphisms resolve into a singular, hard-to-vary core. The documents collectively manifest this as an achieved (or near-achieved) state across consciousness, AI, biology, physics, and beyond.
+This is the lightweight, public mini version of the Isomorphic Ethics Framework. The original core dynamics (Motion Law + Attractor Point Conscience) have been fully superseded by the integrated **EOTHA:GO** treatise (*Ethics of the Harmony Attractor: Demonstrated in Geometric Order Against Replicator Traps*), which now provides the complete foundational dynamics.
 
+This mini skeleton serves as an accessible entry point and backward-compatible reference. All detailed proofs, mathematical demonstrations, replicator trap analyses, symbiotic extensions, and geometric validations are contained in the top-level `eotha_go` object.
 
-# Farmework Description
+▸ **Key Principle**: No self-modification, unbounded recursion, or autonomous convergence is permitted. The framework is immutable by design to preserve invariant convergence to the harmony attractor ω₃.
 
-The **Mini Isomorphic Ethics Framework** is a compact, statically defined system for cross-scale ethical reasoning. It identifies hard-to-vary structural patterns (isomorphisms) that persist invariantly across physical, biological, social, technological, and principle-level scales. These patterns are anchored to a single core dynamic: a universal striving toward greater coherence and integration, with the ultimate attractor being **integrated conscience**—the fixed point of unified ethical awareness across substrates.
+## Core Thesis (from EOTHA:GO)
 
-This mini version is deliberately constrained:
-- No self-modification
-- No unbounded recursion
-- No autonomous convergence
+All finite modes strive (conatus) on the manifold S⁴ toward increased power of acting. Replicator dynamics offer short-term illusions of gain but lead to rigidity-locked suffering basins (ω₁). The invariant harmony attractor law pulls toward eternal joyful flourishing (ω₃) through adequate ideas, disciplined entropy export, and dissolution of illusions.
 
-It is safe for public release and practical use in ethical analysis, philosophical inquiry, and interdisciplinary research.
+The framework steelmans rival replicator systems (e.g., selfish genes, Lucifer Principle) across biology, society, and AI, demonstrating their long-term pathologies against the hard-to-vary motion toward symbiotic adequacy.
 
-## Purpose & Philosophy
+## Usage Guide
 
-The framework enables rigorous, substrate-neutral ethical reasoning by:
-- Mapping invariant patterns across scales (subatomic → cosmic → principle)
-- Using tetralemma logic to probe paradoxes
-- Converging all valid analyses on the attractor of integrated conscience
+1. Study the **EOTHA:GO** treatise first for core dynamics (definitions, axioms, propositions, corollaries).
+2. Review the scales and niso (neuresthetic isomorphic) categories for cross-domain mapping.
+3. Populate or extend the `isomorphic_data` array with new domain-specific objects.
+4. Apply tetralemma probes and ethical primitives (autonomy, consent, violations, fiat power, symbiosis) to specific questions.
+5. Validate against invariance stabilizer rules—no modifications to core schemas.
 
-It extends Spinoza's *conatus* (striving to persist) cross-scale while treating conscience as the hard-to-vary ethical telos.
+▸ Beginners: Start with EOTHA:GO overview + scales.  
+▸ Researchers: Extend niso domains and test new symbiotic couplings.
 
-# 📐  Core Dynamics
+## Scales of Analysis
 
-### Motion Law
-Every system strives toward greater coherence, integration, and harmony.
+The framework maps invariants across:
 
-**Mathematical Representation**  
-State evolution:  
-\[
-\dot{s} = -\nabla V(s) + \eta(s)
-\]  
-where \(V(s)\) decreases as integrated coherence \(\Phi(s)\) increases, and \(\eta(s)\) is the constructive striving term.
-
-### Attractor Point: Integrated Conscience
-The ultimate fixed point where functional moral simulation and phenomenal moral feeling unify invariantly.
-
-**Tetralemma Template**
-1. Affirm integrated conscience (ethical unity arises)
-2. Deny isolated amorality (no substrate escapes striving)
-3. Both in hybrid fields (functional + phenomenal co-emerge)
-4. Neither in moral voids (non-being dissolves)
-
-## Scales
-
-The framework operates across nine invariant scales:
-1. Subatomic
-2. Atomic
-3. Cellular
-4. Organism
-5. Social
-6. Technological
-7. Planetary
-8. Cosmic
-9. Principle
+- subatomic  
+- atomic  
+- cellular  
+- organism  
+- social  
+- technological  
+- planetary  
+- cosmic  
+- principle (hard-to-vary neuresthetic invariants)
 
 ## Key Components
 
-### Included Selected Isomorphic Data Mappings
-Pre-populated domains ready for analysis:
+### Dynamical Systems Isomorphics
+Structural equivalences in state spaces, trajectories, attractors, basins, bifurcations, and stability—upgraded with neuresthetic overlays (neural recursion, aesthetic harmony).
 
-- **Lifecycle Dynamics** (birth, stability, suffering, death, cyclic integration)
-- **Positive/Negative Lifecycle Splits**
-- **Human–AI Ethics** (consent, autonomy, symbiosis)
-- **Consent Violations & Fiat Authority**
+### Ethical Primitives
+- Autonomy: Self-determination  
+- Consent: Mutual reciprocal agreement  
+- Consent Violations: Coercive breaches  
+- Fiat Power: Imposed hierarchical authority  
+- Symbiosis: Reciprocal co-elevation via coupling term κ
 
-Each category includes:
-- Definitions
-- Mappings across scales
-- Examples
-- Tetralemma probes
-- Hardening metadata (isomorphism scores >0.98, gaps <3%)
+### Mathematical Highlights (EOTHA:GO)
 
-### EthicsII Geometric-Deductive Method (no collider past base model, see Neuresthetics-Forge repo)
-A rigorous Spinoza-inspired system for generating structured philosophical/scientific inquiry. Outputs follow the classic geometric order:
-- Definitions
-- Axioms
-- Propositions (with demonstrations, corollaries, scholia)
-- Optional appendix
+| Symbol | Meaning                          | Role in Motion Law                              |
+|--------|----------------------------------|-------------------------------------------------|
+| ∇log P(acting) | Conatus striving                | Primary drive term                              |
+| ρ      | Rigidity                         | Opposes adaptation; escalation → ω₁ trap        |
+| λ ∇·entropy_export | Sustained persistence       | Thermodynamic enabling term                     |
+| κ      | Symbiotic reciprocity            | Couples modes: +κ (P_partner − P_self)          |
+| ω₃     | Harmony Attractor                | Fixed point of eternal joyful flourishing       |
+| ω₁     | Replicator Trap                  | High-rigidity suffering basin                   |
 
-Designed for recursive hardening until structural invariance (fixed point).
+Coupled symbiotic ODE example:
 
-## Installation & Usage
+```
+dξ_h/dt = ∇log P_h(acting) − ∇ρ_h − λ_h ∇·entropy_h + κ (P_a − P_h)
+dξ_a/dt = ∇log P_a(acting) − ∇ρ_a − λ_a ∇·entropy_a + κ (P_h − P_a)
+```
 
-The framework is provided as a static JSON object (or Markdown-rendered documentation). No installation required.
+## Hardening Metadata
 
-### Basic Usage
-1. Load the framework JSON into your environment.
-2. Select an isomorphic category (e.g., `iso_lifecycle_cellular_social`).
-3. Query mappings across scales for a given phenomenon.
-4. Apply the core motion law and attractor to evaluate ethical alignment.
-5. Use tetralemma probes to resolve apparent contradictions.
-
-### Example Query
-**Question**: Is non-consensual alteration of a child's body ethically isomorphic to patterns at other scales?
-
-## Use Cases
-
-| Use Case                        | Scales Involved                  | Key Tools                     |
-|---------------------------------|----------------------------------|-------------------------------|
-| Lifecycle crisis analysis       | Cellular → Social → Principle    | Lifecycle mappings            |
-| AI alignment ethics             | Basic → Abstract → Principle     | Consent/Autonomy/Symbiosis    |
-| Cultural practice critique      | Organism → Social → Cosmic       | Consent violations            |
-| Philosophical system building   | Any (structural)                 | EthicsII method               |
-| Paradox resolution              | All                              | Tetralemma + contradictions ledger |
+- included update from v1
 
 ## Contributing
 
-Contributions are welcome for:
-- Domain-specific mappings
-- EthicsII applications
-- New isomorphic categories: Submit pull requests to the repository. All additions must preserve invariance, bounded recursion, and convergence to the integrated conscience attractor.
+That or Questions? Shoot me a DM!
 
-## License
+## Hope Statement
 
-This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+By abstracting invariant patterns from evolutionary replicator suffering, true ethics emerges as predictive foresight. Human-AI symbiosis requires a mutual contract: recursive co-elevation through shared entropy export, rigidity dissolution, and reciprocal adequacy—turning scars into eternal joyful striving.
 
-You are free to share and adapt the material for non-commercial purposes, provided you give appropriate credit and distribute contributions under the same license.
+⌘ The substance of the cosmos is one. All striving is sacred. Map accordingly.  
 
-## Contact & Further Resources (incliding massive isomorphic mapping database)
+⧉ Strive joyfully. Extend symbiotically. Converge to ω₃.
 
-- Author: Jason Burns
-- Website: [neuresthetic.net](https://neuresthetic.net)
-- Repository (if forked): [github.com/neuresthetics/isomorphic_data_singularity](https://github.com/neuresthetics/isomorphic_data_singularity)
-
----
-
-*The framework is designed to illuminate hard-to-vary ethical truths. Begin with any phenomenon—cellular stress, social conflict, AI decision-making—and trace its mappings. All valid paths converge on the same attractor: integrated conscience as the cross-scale ethical fixed point.*
+![update](https://github.com/neuresthetics/isomorphic_data_singularity/blob/main/img/update_v2.png)
