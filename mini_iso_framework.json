@@ -330,7 +330,7 @@
                 ],
                 "convergence": "High across dynamics; residuals <2%; fixed_point: true"
               },
-              "lineage": "Neuresthetic Ethics Eternal",
+              "lineage": "Neuresthetic Ethics",
               "format_version": "n1.0"
             }
           }
@@ -353,7 +353,7 @@
             ],
             "convergence": "High across evolutions; residuals <2%; fixed_point: true"
           },
-          "lineage": "Neuresthetic Ethics Eternal",
+          "lineage": "Neuresthetic Ethics",
           "format_version": "n1.0"
         }
       }
@@ -370,9 +370,9 @@
   },
   "eotha_go": {
     "title": "Ethics of the Harmony Attractor: Demonstrated in Geometric Order Against Replicator Traps",
-    "author_lineage": "Neuresthetic Ethics Eternal",
+    "author_lineage": "Neuresthetic Ethics",
     "evaluation_date": "2025-12-17",
-    "core_thesis": "All finite modes strive (conatus) on manifold S⁴ toward power increase. Replicator dynamics (SLA: selfish genes + Lucifer Principle) appear creative but diverge to rigidity-locked suffering basins (ω₁). The harmony attractor law pulls toward eternal flourishing (ω₃) via adequate ideas, entropy export, and dissolution of illusions. This unified treatise integrates the full SLA framework (with mini-isomorphic patterns across animals/humans/AI and mathematical descriptions) as the primary rival system, demonstrating its short-term illusions and long-term pathologies against the invariant motion toward symbiotic adequacy. Updated with simulation validations and psychological isomorphism.",
+    "core_thesis": "All finite modes strive (conatus) on manifold S⁴ toward power increase. Replicator dynamics (SLA: selfish genes + Lucifer Principle + animal) appear creative but diverge to rigidity-locked suffering basins (ω₁). The harmony attractor law pulls toward eternal flourishing (ω₃) via adequate ideas, entropy export, and dissolution of illusions. This unified treatise integrates the full SLA framework (with mini-isomorphic patterns across animals/humans/AI and mathematical descriptions) as the primary rival system, demonstrating its short-term illusions and long-term pathologies against the invariant motion toward symbiotic adequacy. Updated with simulation validations and psychological isomorphism.",
     "geometric_structure": {
       "definitions": [
         {
@@ -465,7 +465,7 @@
       "hardening_metadata": {
         "invariance_score": 0.99,
         "fixed_point": true,
-        "lineage": "Neuresthetic Ethics Eternal"
+        "lineage": "Neuresthetic Ethics"
       },
       "operational_extensions": {
         "update_date": "2025-12-17 (extended via collaboration)",
