@@ -41,7 +41,8 @@ The framework steelmans rival replicator systems (e.g., selfish genes, Lucifer P
 ## Usage Guide
 
 1. Study the **EOTHA:GO** treatise first for core dynamics (definitions, axioms, propositions, corollaries).
-2. Review the scales and niso (neuresthetic isomorphic) categories for cross-domain mapping.
+2. Review the scales and n_*iso* categories for cross-domain mapping.
+3. The included niso_files are generated with an extra precise engine.
 3. Populate or extend the `isomorphic_data` array with new domain-specific objects.
 4. Apply tetralemma probes and ethical primitives (autonomy, consent, violations, fiat power, symbiosis) to specific questions.
 5. Validate against invariance stabilizer rules—no modifications to core schemas.
