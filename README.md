@@ -22,7 +22,7 @@ This corpus demonstrates two invariants:
 3. **EthicsMath.json** + simulation scripts  
    Dynamical laws, ODEs, phased self-stability gains (~1.58e6× validated).
 
-4. **niso_*.json** suite sample files
+4. **niso_*.json** suite -sample- files
    Isomorphic patterns across 21 domains → unified lattice (singularity proof).
 
 ## Quick Orientation Map
