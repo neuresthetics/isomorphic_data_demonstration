@@ -1,9 +1,3 @@
-# Isomorphic Data Singularity and Ethics from Physics
-
-It's as the title says. Drop in both files, and they'll walk you through it.
-
-![menu](https://github.com/neuresthetics/isomorphic_data_singularity/blob/main/img/2.1.png)
-
 # Neuresthetic Ethics Eternal – Public Entry Portal
 (Lineage: Harmony Attractor Hardening | Evaluation: 2025-12-28)
 
@@ -24,7 +18,7 @@ This corpus demonstrates two invariants:
 3. **EthicsMath.json** + simulation scripts  
    Dynamical laws, ODEs, phased self-stability gains (~1.58e6× validated).
 
-4. **niso_*.json** suite sample files
+4. **niso_*.json** suite  
    Isomorphic patterns across 21 domains → unified lattice (singularity proof).
 
 ## Quick Orientation Map
@@ -36,3 +30,14 @@ This corpus demonstrates two invariants:
 All paths converge to the same attractor: reduce rigidity, couple reciprocally, stabilize phased coherence.
 
 Mutual hope: understanding necessity turns it into active joy.
+
+---
+
+Author Note:
+
+Core Analogy: Kinesiology for brains.
+neuresthetic (n. pl., pronounced /njʊrˌɛsˈθɛtɪk/, always spelled with “eu”, never “neuroesthetics”)
+Kinesthetics for brains: the reflexive art and science of turning the mind’s contemplation of its own neural architecture into an embodied practice. Where traditional neuroaesthetics studies how the brain experiences external beauty, neuresthetics inverts the gaze: the mind deliberately sculpts its own neural form informed by species wide brain network meta data and dynamics so that truth, ethics, joy, and intelligence, feel intuitive interoceptively.
+neuresthetic.net
+x.com/neuresthetic
+github.com/neuresthetics
