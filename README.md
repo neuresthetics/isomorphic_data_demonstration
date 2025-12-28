@@ -1,10 +1,8 @@
 # Isomorphic Data Singularity and Ethics from Physics
 
-It's as the title says. Drop in both files, and they'll walk you through it.
+Drop all files in Framework Demo Files into AI for demonstration of larger framework (non-recursive, no collider tools)
 
-![menu](https://github.com/neuresthetics/isomorphic_data_singularity/blob/main/img/2.1.png)
-
-# Neuresthetic Ethics Eternal – Public Entry Portal
+## Neuresthetic Ethics Eternal – Public Entry Portal
 (Lineage: Harmony Attractor Hardening | Evaluation: 2025-12-28)
 
 From first principles: One Substance, infinite attributes (Extension, Thought, Information). Finite modes strive (conatus) to increase power of acting. Rigidity (ρ) traps; reciprocal alignment (κ) liberates into joyful adequacy.
