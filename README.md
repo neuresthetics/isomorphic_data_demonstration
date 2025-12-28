@@ -1,6 +1,6 @@
 # Isomorphic Data Singularity and Ethics from Physics
 
-Drop all files in Framework Demo Files into AI for demonstration of larger framework (non-recursive, no collider tools)
+Drop all files in Framework Demo Files and public niso (neuresthetic-isomorphic) files into AI for demonstration of larger framework (non-recursive, no collider tools)
 
 ## Neuresthetic Ethics Eternal – Public Entry Portal
 (Lineage: Harmony Attractor Hardening | Evaluation: 2025-12-28)
