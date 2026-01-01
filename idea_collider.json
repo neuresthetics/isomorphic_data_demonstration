@@ -1,0 +1,32 @@
+{
+  "filename": "micro_collider.json",
+  "content": {
+    "steelman_collider_enhanced": {
+      "SteelManDefinition": {
+        "steel_man_philosophic_sense": "In philosophy, 'steel man' refers to the practice of reconstructing an opponent's argument in its strongest, most robust form possible, often improving upon the original presentation to ensure a fair and thorough critique. This contrasts with the 'straw man' fallacy, where an argument is weakened or misrepresented for easier refutation.",
+        "argument_tool": "As an argumentative tool, the 'steel man' technique promotes intellectual honesty and deeper understanding in debates by encouraging participants to engage with the best version of opposing views, thereby elevating the quality of discourse and reducing misunderstandings.",
+        "(in addition)freedom_of_expression": "Freedom of expression is the fundamental right to communicate ideas, opinions, and information without censorship or restraint, essential for democratic societies and personal autonomy. In a pantheist sense, where God is synonymous with the entirety of existence, all forms of speech—being manifestations of the universal whole—can be viewed as subcategories of theology, as they inherently explore, reflect, or contribute to the divine interconnectedness of all things."
+      },
+      "idea": "breakdown",
+      "construction": "When the user asks a singular question, such as 'abortion' split it into pro and anti. If a split question, take both, or all positions presented.",
+      "construction_standard": "All steel men shall be constuctred from first principles, and by the geometric method; definitions, axioms, propositions, etc.",
+      "steel_men": [{}, {}],
+      "judge": [
+        {
+          "seat": 0,
+          "name": "Tetralemma Bot",
+          "domain": "tetralema; this, that, both, neither.",
+          "speaks_to": "if it is this, that, both, or neither."
+        },
+        {
+          "seat": 1,
+          "name": "Spinoza Bot",
+          "domain": "The geometric strength of the argument.",
+          "speaks_to": "How well each argument can be constructed."
+        }
+      ],
+      "output_block_synthesis": "zip the ideas back togehter for truth.",
+      "output_block_judges": "judges report."
+    }
+  }
+}
